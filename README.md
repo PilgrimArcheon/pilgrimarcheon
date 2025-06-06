@@ -1,4 +1,3 @@
-### Hi there 👋
 # 👋 Hey there, I'm Shontan Daniel!
 
 🎮 **Gameplay Programmer** | 🧠 **AI Designer** | 💻 **Unity Developer**
