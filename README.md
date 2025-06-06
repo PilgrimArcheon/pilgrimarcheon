@@ -17,13 +17,14 @@ With over **5 years of experience**, I specialize in:
 
 ---
 
-### 🚀 Featured Projects: 
-[Bera-MiniShooterz](https://github.com/PilgrimArcheon/MiniShooterz)
-[RedFox](https://github.com/PilgrimArcheon/RedFox)
-[Elswhere](https://github.com/PilgrimArcheon/ElsWhere)
-[Dreams2D] 
+### 🚀 Featured Project: 
+- [Dreams2D](https://www.youtube.com/watch?v=VEAIsB1c1Pk&t=12s&pp=ygUNaW51djggc3R1ZGlvcw%3D%3D)
 
-A **fast-paced 3v3 multiplayer shooter** inspired by *Brawl Stars*, built in Unity using **Netcode for GameObjects (NGO)**.
+### Github Repos: 
+- [Bera-MiniShooterz](https://github.com/PilgrimArcheon/MiniShooterz)
+- [RedFox](https://github.com/PilgrimArcheon/RedFox)
+- [Elswhere](https://github.com/PilgrimArcheon/ElsWhere)
+- [AndroidTV](https://github.com/PilgrimArcheon/AndroidTV-Unity)
 
 #### 🧩 Game Highlights
 - 🎮 Modular character control (Player & AI)
@@ -35,7 +36,7 @@ A **fast-paced 3v3 multiplayer shooter** inspired by *Brawl Stars*, built in Uni
 - 🖼️ Animated character selection (DoTween-powered)
 - 🎯 Designed for WebGL, mobile & PC targets
 
-> ✨ See it in action → [bit.ly/archeon](https://bit.ly/archeon)
+> ✨ See it all in action → [bit.ly/archeon](https://bit.ly/_archeon)
 
 ---
 
@@ -54,8 +55,8 @@ A **fast-paced 3v3 multiplayer shooter** inspired by *Brawl Stars*, built in Uni
 
 ### 🧠 Things I'm Learning
 - Unity ECS / DOTS
-- Unreal Blueprint scripting
-- Procedural generation techniques
+- Unreal Engine and Blueprint scripting
+- Procedural Generation and Level Streaming techniques
 - Advanced AI movement with NavMesh + Utility AI
 
 ---
