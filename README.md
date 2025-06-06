@@ -17,7 +17,9 @@ With over **5 years of experience**, I specialize in:
 ---
 
 ### 🚀 Featured Project: 
-- [Dreams2D](https://www.youtube.com/watch?v=VEAIsB1c1Pk&t=12s&pp=ygUNaW51djggc3R1ZGlvcw%3D%3D)
+- [Dreams2D]
+- [ITCH.IO](https://inuv8-studios.itch.io/midnight-dreams)
+- [YOUTUBE](https://www.youtube.com/watch?v=VEAIsB1c1Pk&t=12s&pp=ygUNaW51djggc3R1ZGlvcw%3D%3D)
 
 ### Github Repos: 
 - [Bera-MiniShooterz](https://github.com/PilgrimArcheon/MiniShooterz)
