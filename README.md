@@ -1,4 +1,74 @@
 ### Hi there 👋
+# 👋 Hey there, I'm Shontan Daniel!
+
+🎮 **Gameplay Programmer** | 🧠 **AI Designer** | 💻 **Unity Developer**
+
+---
+
+### 🔥 About Me -
+Results-driven Gameplay Programmer with 5+ years of experience building interactive systems, AI behavior, and multiplayer mechanics for mobile, PC, and Web platforms. Skilled in architecting scalable systems in Unity (C#), optimizing performance, and collaborating across disciplines to craft immersive game experiences. Strong foundation in AI programming, multiplayer architecture, UI/UX integration, and visual development.
+With over **5 years of experience**, I specialize in:
+
+- Modular Game architecture
+- Multiplayer (Unity NGO & Photon)
+- Combat systems & Character Abilities.
+- AI behavior trees & FSMs.
+- UI/UX design for dynamic interactions.
+
+---
+
+### 🚀 Featured Projects: 
+[Bera-MiniShooterz](https://github.com/PilgrimArcheon/MiniShooterz)
+[RedFox](https://github.com/PilgrimArcheon/RedFox)
+[Elswhere](https://github.com/PilgrimArcheon/ElsWhere)
+[Dreams2D] 
+
+A **fast-paced 3v3 multiplayer shooter** inspired by *Brawl Stars*, built in Unity using **Netcode for GameObjects (NGO)**.
+
+#### 🧩 Game Highlights
+- 🎮 Modular character control (Player & AI)
+- 🔫 Smart aiming & reload system (per-bullet timing)
+- 🌐 Real-time multiplayer (NGO, Lobby, Relay)
+- 📦 Optimized object pooling (NetworkObject-safe)
+- 🧠 AI fallback for matchmaking (1v1, 3v3 auto-fill)
+- 🏆 PlayFab leaderboards, XP, K/D tracking
+- 🖼️ Animated character selection (DoTween-powered)
+- 🎯 Designed for WebGL, mobile & PC targets
+
+> ✨ See it in action → [bit.ly/archeon](https://bit.ly/archeon)
+
+---
+
+### 🛠️ My Toolbox
+
+**Languages & Frameworks**  
+`C#` `Unity Engine` `Photon` `PlayFab` `Netcode for GameObjects` `Firebase`
+
+**GameDev Systems**  
+`AI (FSMs, BTs)` `Combat Mechanics` `Input Systems` `Object Pooling` `Networking` `Stat Tracking`
+
+**Tools & Platforms**  
+`Git` `DoTween` `Figma` `Blender` `Photoshop` `Trello` `VS Code`
+
+---
+
+### 🧠 Things I'm Learning
+- Unity ECS / DOTS
+- Unreal Blueprint scripting
+- Procedural generation techniques
+- Advanced AI movement with NavMesh + Utility AI
+
+---
+
+### 📫 Let's Connect
+
+- 🎮 Portfolio: [bit.ly/_archeon](https://bit.ly/_archeon)  
+- 🔗 LinkedIn: [linkedin.com/in/daniel-shontan-3b6b2b227](https://linkedin.com/in/daniel-shontan-3b6b2b227)  
+- ✉️ Email: shontandaniel@gmail.com
+
+---
+
+> “Build fast. Play smart. Refactor for the future.” — My dev mantra.
 
 <!--
 **PilgrimArcheon/pilgrimarcheon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
